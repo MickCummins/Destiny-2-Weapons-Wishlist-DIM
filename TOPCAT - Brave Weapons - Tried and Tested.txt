@@ -1,0 +1,133 @@
+title:Brave - Tried and Tested
+
+// Forbearance - Forbearance - Final Shape (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Chain Reaction is getting a 15% radiant nerf and 20% lethality nerf.  Wellspring will be a better option with 8% ability energy divided into your uncharged abilities.  Enhanced Wellspring will be Wellspring 9%, and Enhanced Demolitionist 11% and Origin Trait giving 5% on light subclass, equals 25% per kill.  4 kill on wave frame is a free grenade. tags:god-pve
+dimwishlist:item=568611921&perks=3523296417,3592538738
+
+
+// The Mountaintop - The Mountaintop (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Recombination is what makes this Grenade Launcher stand out from using other easier options (waveframes).  ALH is the top tier pick, for relying on your primary, but whipping this out when your enemy is being too tanky. Velocity is not needed because of Micro-missile.  MW: Handling tags:god-pve
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=981914802,3301904089,2010801679,469285294
+dimwishlist:item=568611922&perks=981914802,3301904089,3523296417,469285294
+
+
+// Edge Transit - Edge Transit (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw For large damage windows Envious Assassin, with Bait n Switch is still the way to go. tags:god-pve
+dimwishlist:item=568611923&perks=3301904089,968510818,3078487919
+
+
+// Edge Transit - Edge Transit (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw For small damage windows Cascade Point, with Bait n Switch is still the way to go. tags:god-pve
+dimwishlist:item=568611923&perks=3301904089,3751912585,3078487919
+
+
+// Edge Transit - Edge Transit (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Real unique combo stems from Deconstruct. Paired with Sticky Grenades it counts as more additional hits, so you can use all 24 rounds with only one reload.  Brigs are now counted as a vehicle so they cope 40% more damage. tags:god-pve
+dimwishlist:item=568611923&perks=3373736292,968510818,3993379141
+
+
+// The Recluse - The Recluse (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw This weapon isn't what it was. Rework to Master of Arms is just weak.  Volatile looks like an option, but Echo of Instability is a better way to get the same effect.  With the trait and devour netting 20% grenade energy per kill. If we are using grenades, then Desparate Measures will give a 30% damage boost.  If you feel the reload is slow, by all means go frenzy MW: Stability  tags:god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2109543898
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,4104185692
+
+
+// The Recluse - The Recluse (god-pvp)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Found DSR with TL was nice, but the loss of reload leaves you constantly venerable with the way this gun churns out bullets.  MW: Stability tags:god-pvp
+dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,1890422124
+
+
+// Hung Jury SR4 - Hung Jury SR4 (god-pvp)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Capable of a three crit kill tags:god-pvp
+dimwishlist:item=1453235079&perks=247725512,2551157718
+
+
+// Hung Jury SR4 - Hung Jury SR4 (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw KT for yellow bars, and Firefly for swarms of red bars. tags:god-pve
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+
+
+// Falling Guillotine - Brave - Tried and Tested Falling Guillotine (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw This will out damage the Bequest, but it's situational.  Good situation if you can get it.  Frenzy is higher, but vorpal is consistent. tags:god-pve
+dimwishlist:item=1815105249&perks=3666208348,4104185692,3708227201
+dimwishlist:item=1815105249&perks=3666208348,1546637391,3708227201
+
+
+// Falling Guillotine - Falling Guillotine (pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Great during transitional encounters.  If you have the crafted Dares sword, The Other Half, it's pretty much the same tags:pve
+dimwishlist:item=1815105249&perks=3666208348,1546637391,2077819806
+
+
+// Hammerhead (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Commemoration with Ext Mag Reconstruction and Killing Tally beats this machinegun.  Probably the pick of the bunch is ammo economy with a damage perk that stacks.  But stick with commemoration if you have it. tags:god-pve
+dimwishlist:item=1896309757&perks=3418782618,557221067
+
+
+// Hammerhead - Hammerhead (pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Commemoration with Ext Mag Reconstruction and Killing Tally beats this machinegun. For mag dumping with a reload bonus, and damage bonus this combo will work. tags:pve
+dimwishlist:item=1896309757&perks=3425386926,95528736
+
+
+// Hammerhead - Hammerhead (pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Commemoration with Ext Mag Reconstruction and Killing Tally beats this machinegun. This damage combo is insane, but who like using a machine gun this close in. tags:pve
+dimwishlist:item=1896309757&perks=3425386926,3708227201
+
+
+// Blast Furnace - Blast Furnace (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw PVE - KT, OfA, Ext mag, AH Brake, with Backup Mag Mod and a Handling masterwork tags:god-pve
+dimwishlist:item=2372514508&perks=839105230,2420895100,3891536761,4049631843
+
+
+// Blast Furnace - Blast Furnace (god-pvp)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Handling and recoil need to be controlled in PVP.  Handling MW needed.  Counterbalance Mod needed as well. tags:god-pvp
+dimwishlist:item=2372514508&perks=839105230,3142289711,460017080,247725512
+
+
+// Elsie's Rifle - Elsie's Rifle (god-pvp)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Tops Messenger with an additional 31 stat points.  MW: Stability tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+
+
+// Elsie's Rifle - Elsie's Rifle (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Elsie's can also work in PVE. tags:god-pve
+dimwishlist:item=2372514509&perks=839105230,1885400500,776531651,1015611457
+
+
+// Midnight Coup - Midnight Coup (god-pve,god-pvp)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Not a stand out weapon from others, but works well in both PVE and PVP 6's with the same roll. If both perks are enhanced we have a 47% damage bonus. Explosive payload menas you might splash two or more targets, making OfA easier to proc. Mod: Counter-balance stock MW: Stability tags:god-pve,god-pvp
+dimwishlist:item=2763843898&perks=1840239774,3142289711,3038247973,4049631843
+
+
+// Luna's Howl - Luna's Howl (god-pvp)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw My favourite was Heal Clip, Kill Clip.  Worked best in 6's.  MW: Handling tags:god-pvp
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3017780555,1015611457
+
+
+// Luna's Howl - Luna's Howl (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Favourite combo for PVE. Enhancing these perks will make it stand out.  MW: Handling tags:god-pve
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3017780555,4293542123
+
+
+// Luna's Howl - Luna's Howl (pvp)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Can give a double hit kill with precision stacks.  But you need to kill two guardians to acquire this capability.  Or reload after one kill for one crit, one body on the next guardian.  Opening shot is an option too. MW: Handling tags:pvp
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3161816588,2720533289
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3161816588,47981717
+
+
+// Luna's Howl - Luna's Howl ()
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw The unique PVE combo for the weapon.  Kills will other weapons procs something special.  MW:Handling
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3978468247,438098033
+
+
+// Succession - Succession (god-pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw Still one of the top two legendary snipers, with more bullets is very good. tags:god-pve
+dimwishlist:item=3612338554&perks=2420895100,1523832109,1546637391
+dimwishlist:item=3612338554&perks=2420895100,1523832109,1771339417
+
+
+// Succession - Succession (pve)
+//notes: TOPCAT https://youtu.be/1TLVB5nDARw This is the unique ammo economy combination, but you have to be good at your sniping. tags:pve
+dimwishlist:item=3612338554&perks=2420895100,3978468247,3201496230
+
+
