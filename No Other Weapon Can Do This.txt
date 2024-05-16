@@ -1,0 +1,217 @@
+title:Unique Weapon Combos
+description:Destiny 2 has a bunch of weapons that have insane weapon combos.
+
+// Word of Crota - Word of Crota (god-pve)
+//notes: Dragonfly procs Sword Logic for damage boost that scales with the type of enemy.  Sword Logic then boosts the damage Dragonfly does tags:god-pve
+dimwishlist:item=120706239&perks=2848615171,31345821
+dimwishlist:item=120706239&perks=2848615171,639190697
+dimwishlist:item=120706239&perks=169755979,31345821
+dimwishlist:item=120706239&perks=169755979,639190697
+
+
+// Nessa's Oblation (god-pve)
+//notes: On kill, his surrounding mates become volatile.  If you kill with precision, the enemy explodes taking his volatile mates with him.  But seriously, who uses a shotty for ad clear?  (Yeah, I'll probably do this for fun) tags:god-pve
+dimwishlist:item=135029084&perks=2848615171,2048641572
+dimwishlist:item=135029084&perks=2848615171,1926441324
+dimwishlist:item=135029084&perks=169755979,2048641572
+dimwishlist:item=135029084&perks=169755979,1926441324
+
+
+// Whistler's Whim (Adept) - Whistler's Whim (Adept) (god-pve)
+//notes: 25% damage bonus from reloading, which bows do every shot.  Couple that with Tunnel Vision for better Aim Assist and Aim Down Sights, and just chain kill! tags:god-pve
+dimwishlist:item=161675590&perks=2946784966,1015611457
+
+
+// Horror Story - Horror Story (god-pve)
+//notes: A perk combo with zero affinity.  Well, that it until you equip Whisper of Shards fragment, then both give grenade energy allows spamming of said grenades. tags:god-pve
+dimwishlist:item=177568179&perks=3523296417,124408337
+
+
+// Eyasluna - Eyasluna (god-pve)
+//notes: Precision kill creates crystal, shoot crystal causing multiple deaths, multiple deaths trigger unrelenting health regen.  Rinse and repeat. tags:god-pve
+dimwishlist:item=235827225&perks=
+
+
+// Main Ingredient - Main Ingredient (god-pvp)
+//notes: Horrifically stable fusion rifle.  Allowing you to get some crazy kills in crucible.  Allows low on ammo, means Under Pressure gives improved stability and accuracy.  Tap the Trigger does the same on initial shot.   tags:god-pvp
+dimwishlist:item=253196586&perks=1645158859,1890422124
+
+
+// Age-Old Bond - Age-Old Bond (god-pve)
+//notes: On kill, surrounding enemies become volatile.  But on precision kill, one enemy explodes taking his volatile mates with him.  Nice. tags:god-pve
+dimwishlist:item=424291879&perks=2848615171,2048641572
+dimwishlist:item=424291879&perks=2848615171,1926441324
+dimwishlist:item=424291879&perks=169755979,2048641572
+dimwishlist:item=424291879&perks=169755979,1926441324
+
+
+// Duty Bound - Duty Bound (god-pve)
+//notes: The only auto-rifle that has this combo.  tags:god-pve
+dimwishlist:item=435216110&perks=3400784728,1354429876
+
+
+// Deliverance - Deliverance (god-pve)
+//notes: The only fusion rifle with this combo.  Cornered activates when you are surrounded, and amazingly so does Surrounded.  This has a multiplicative effect in DPS when you find a bunch of enemies. tags:god-pve
+dimwishlist:item=768621510&perks=1799762209,3708227201
+dimwishlist:item=768621510&perks=1799762209,781192741
+dimwishlist:item=768621510&perks=1008128453,3708227201
+dimwishlist:item=768621510&perks=1008128453,781192741
+
+
+// Abyss Defiant -  Abyss Defiant (god-pve)
+//notes: The only weapon to get these perks with cursed thrall.  One malee kill gives three perk activations. tags:god-pve
+dimwishlist:item=833898322&perks=691659142,4082225868,1156201379
+dimwishlist:item=833898322&perks=691659142,1161469972,1156201379
+dimwishlist:item=833898322&perks=536173722,4082225868,1156201379
+dimwishlist:item=833898322&perks=536173722,1161469972,1156201379
+
+
+// Cold Comfort - Cold Comfort (god-pve)
+//notes: The only rocket launcher that never needs to reload.  Bipod makes it so you can hold 2 rockets at a time.  Envious assassin overflows this overstuffed magazine from kills with other weapons (Which scales giving you from 2 to 8 rockets).  Performing a finisher will automatically reload 2 more rockets.  Giving 10 rockets without a reload. tags:god-pve
+dimwishlist:item=839786290&perks=968510818,1439600632,398661035
+
+
+// Aurvandil FR6 - Aurvandil FR6 (god-pve)
+//notes: Only fusion rifle with reconstruction with chill clip.  Chill clip is now fixed and will probably be meta going into final shape. tags:god-pve
+dimwishlist:item=963710795&perks=1523832109,2978966579
+
+
+// Duty Bound (Adept) - Duty Bound (Adept) (god-pve)
+//notes: The only autorifle with this combo. tags:god-pve
+dimwishlist:item=1135050595&perks=3400784728,1354429876
+
+
+// Doom of Chelchis (Harrowed) - Doom of Chelchis (Harrowed) (god-pve)
+//notes: Double explosions tags:god-pve
+dimwishlist:item=1184692845&perks=3824105627,2848615171
+dimwishlist:item=1184692845&perks=3824105627,169755979
+dimwishlist:item=1184692845&perks=1183436451,2848615171
+dimwishlist:item=1184692845&perks=1183436451,169755979
+
+
+// Qullim's Terminus - Qullim's Terminus (god-pve)
+//notes: Precision kill creates crystal, shoot crystal causing multiple deaths, multiple deaths trigger unrelenting health regen.  Rinse and repeat. tags:god-pve
+dimwishlist:item=1321506184&perks=3108830275,124408337
+dimwishlist:item=1321506184&perks=3108830275,1171887445
+dimwishlist:item=1321506184&perks=855168139,124408337
+dimwishlist:item=1321506184&perks=855168139,1171887445
+
+
+// Doom of Chelchis - Doom of Chelchis (god-pve)
+//notes: Double explosions tags:god-pve
+dimwishlist:item=1937552980&perks=3824105627,2848615171
+dimwishlist:item=1937552980&perks=3824105627,169755979
+dimwishlist:item=1937552980&perks=1183436451,2848615171
+dimwishlist:item=1937552980&perks=1183436451,169755979
+
+
+// Lingering Dread - Lingering Dread (god-pve)
+//notes: The only grenade launcher which can stun Overloads and blind enemies simultaneously. tags:god-pve
+dimwishlist:item=2026087437&perks=3032599245,2978966579
+
+
+// Unending Tempest - Unending Tempest (god-pve)
+//notes: A perk combo with zero affinity.  Well, that is until you equip Whisper of Shards fragment, then both give grenade energy allows spamming of said grenades. tags:god-pve
+dimwishlist:item=2510526114&perks=3523296417,124408337
+
+
+// Riptide - Riptide (god-pve)
+//notes: Hella useful utility roll, now that Chill Clip is back baby. tags:god-pve
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+
+
+// Firefright - Firefright (god-pve)
+//notes: Three perks at once, just jump into the middle of a whole pile of enemies. YeeHaw tags:god-pve
+dimwishlist:item=2778013407&perks=4071163871,3708227201,1250481499
+dimwishlist:item=2778013407&perks=4071163871,781192741,1250481499
+dimwishlist:item=2778013407&perks=494941759,3708227201,1250481499
+dimwishlist:item=2778013407&perks=494941759,781192741,1250481499
+
+
+// The Supremacy - The Supremacy (god-pve)
+//notes: With this combo, you never have to reload! tags:god-pve
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+dimwishlist:item=2884596447&perks=3418782618,848860060
+dimwishlist:item=2884596447&perks=1563455254,1354429876
+dimwishlist:item=2884596447&perks=1563455254,848860060
+
+
+// Deliverance (Adept) - Deliverance (Adept) (god-pve)
+//notes: The only fusion rifle with this combo.  Cornered activates when you are surrounded, and amazingly so does Surrounded.  This has a multiplicative effect in DPS when you find a bunch of enemies. tags:god-pve
+dimwishlist:item=2943293195&perks=1799762209,3708227201
+dimwishlist:item=2943293195&perks=1799762209,781192741
+dimwishlist:item=2943293195&perks=1008128453,3708227201
+dimwishlist:item=2943293195&perks=1008128453,781192741
+
+
+// Liminal Vigil - Liminal Vigil (god-pve)
+//notes: Get a precision kill, create a crystal, reload, smash crystal with increased fire rate.  Rinse, and repeat. tags:god-pve
+dimwishlist:item=3138208275&perks=124408337,3047969693
+
+
+// Whistler's Whim - Whistler's Whim (god-pve)
+//notes: 25% damage bonus from reloading, which bows do every shot.  Couple that with Tunnel Vision for better Aim Assist and Aim Down Sights, and just chain kill! tags:god-pve
+dimwishlist:item=3165143747&perks=2946784966,1015611457
+
+
+// Qullim's Terminus (Harrowed) - Qullim's Terminus (Harrowed) (god-pve)
+//notes: Precision kill creates crystal, shoot crystal causing multiple deaths, multiple deaths trigger unrelenting health regen.  Rinse and repeat. tags:god-pve
+dimwishlist:item=3248429089&perks=3108830275,124408337
+dimwishlist:item=3248429089&perks=3108830275,1171887445
+dimwishlist:item=3248429089&perks=855168139,124408337
+dimwishlist:item=3248429089&perks=855168139,1171887445
+
+
+// Trinary System -  Trinary System (god-pvp)
+//notes: Horrifically stable fusion rifle.  Allowing you to get some crazy kills in crucible.  Allows low on ammo, means Under Pressure gives improved stability and accuracy.  Tap the Trigger does the same on initial shot.   tags:god-pvp
+dimwishlist:item=3258665412&perks=1645158859,1890422124
+
+
+// Posterity - Posterity (god-pve)
+//notes: Unique combo.  Two damage perks.  Unfortunately the lightening from Voltshot does not count as Rampage kills, but it's so easy to use for ad clear. tags:god-pve
+dimwishlist:item=3281285075&perks=2173046394,3425386926
+dimwishlist:item=3281285075&perks=2173046394,288411554
+dimwishlist:item=3281285075&perks=1720528630,3425386926
+dimwishlist:item=3281285075&perks=1720528630,288411554
+
+
+// Phyllotactic Spiral - Phyllotactic Spiral (god-pve)
+//notes: Only primary weapon with this combo.  Volt Shot gives you a chain reaction when you kill and reload.  Compulsive Reloader gives you amazingly fast reload.  Proc Volt Shot, reload fast to get Volt Shot again.  Keep chaining! tags:god-pve
+dimwishlist:item=3635821806&perks=671806388,2173046394
+dimwishlist:item=3635821806&perks=671806388,1720528630
+dimwishlist:item=3635821806&perks=595108252,2173046394
+dimwishlist:item=3635821806&perks=595108252,1720528630
+
+
+// BrayTech Osprey - BrayTech Osprey (god-pve)
+//notes: Using a Hunter dodge to do the final auto-reload, if you have enough kills with other weapons before hand.  You can dump your entire rocket inventory without reloading. tags:god-pve
+dimwishlist:item=3667553455&perks=968510818,1439600632
+
+
+// Abyss Defiant (Adept) - Abyss Defiant (Adept) (god-pve)
+//notes: The only weapon to get these perks with cursed thrall.  One malee kill gives three perk activations. tags:god-pve
+dimwishlist:item=3782662983&perks=691659142,4082225868,1156201379
+dimwishlist:item=3782662983&perks=691659142,1161469972,1156201379
+dimwishlist:item=3782662983&perks=536173722,4082225868,1156201379
+dimwishlist:item=3782662983&perks=536173722,1161469972,1156201379
+
+
+// Word of Crota (Adept) - Word of Crota (Adept) (god-pve)
+//notes: Dragonfly procs Sword Logic for damage boost that scales with the type of enemy.  Sword Logic then boosts the damage Dragonfly does tags:god-pve
+dimwishlist:item=3926103986&perks=2848615171,31345821
+dimwishlist:item=3926103986&perks=2848615171,639190697
+dimwishlist:item=3926103986&perks=169755979,31345821
+dimwishlist:item=3926103986&perks=169755979,639190697
+
+
+// Midha's Reckoning - Midha's Reckoning (god-pve)
+//notes: Reservoir burst means your eighth in the chamber, deals higher damage and the enemies explode.  But dependant on how many team mates are around when you reload you can have up to 12 shots.  Meaning for your first five shots, everyone explodes. tags:god-pve
+dimwishlist:item=3969066556&perks=1427256713,120721526
+dimwishlist:item=3969066556&perks=254337357,120721526
+
+
+// Marcato-45 - Marcato-45 (god-pve)
+//notes: Only machine gun with this combo.  Pairs with Swarmers and Verity's Brow.  Change to hatchling grenade, and watch the grub feast go nuts. tags:god-pve
+dimwishlist:item=4233375372&perks=3523296417,831391274
+
+
